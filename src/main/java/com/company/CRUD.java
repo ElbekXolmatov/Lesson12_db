@@ -9,6 +9,7 @@ import com.company.studentCRUD.UpdateExample;
 public class CRUD {
     public static void main(String[] args) {
 
+//        asd?
         System.out.println("second commit");
         while(true){
             System.out.println("1.C//2.R//3.U//4.D");
